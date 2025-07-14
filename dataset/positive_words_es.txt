@@ -366,6 +366,7 @@ preciso
 conducir
 obligación
 madrugada
+avanza
 avanzado
 fijo
 eficiente
@@ -653,6 +654,7 @@ competitivo
 prendas
 apreciado
 sobresaliente
+alegrías
 rosado
 productivo
 limpio
@@ -777,6 +779,7 @@ susceptible
 trascendental
 facilitando
 sorprendentemente
+vllc
 bovino
 enmienda
 enriquecimiento

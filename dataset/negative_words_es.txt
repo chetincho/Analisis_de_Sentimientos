@@ -4,6 +4,8 @@ problema
 discusión
 lucha
 falta
+libertarados
+econochantas
 evitar
 puerto
 mal
@@ -49,7 +51,10 @@ secreto
 crítico
 destrucción
 críticos
+inoperancia
+catastrófico
 ausencia
+apuñalado
 esfuerzo
 oscuro
 tendencia
@@ -229,6 +234,7 @@ aislamiento
 rebelde
 salvaje
 odio
+enfermos
 criminal
 conspiración
 amenazas
@@ -292,9 +298,12 @@ terrorismo
 aislado
 herederos
 droga
+anticiencia
 loco
 acusación
+cavernícola
 separar
+nefasto
 surgimiento
 confundir
 inestabilidad
@@ -626,6 +635,7 @@ inhibición
 fúnebre
 borracho
 interrumpir
+envidia
 exigente
 pesadilla
 dilema
@@ -677,9 +687,13 @@ severidad
 infectado
 rehén
 inevitablemente
+calumniar
+ensobrar
+ensuciar
 aplastante
 arrastrado
 confinado
+ensobrado
 guarida
 retrasar
 egoísta
@@ -786,6 +800,7 @@ ternura
 extremistas
 infame
 gueto
+lucró
 rotundamente
 doom
 catástrofes
